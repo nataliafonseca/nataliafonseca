@@ -1,5 +1,4 @@
 Formada em Engenharia Civil pela Universidade Tiradentes, mas atualmente focada na segunda graduação em Ciência da Computação.
-
 Estagiária na CPD da SMTT/Aracaju.
 
 [LinkedIn](https://www.linkedin.com/in/nataliabfonseca) / [Twitter](https://twitter.com/nataliabf_s2) / [Telegram](https://t.me/natinha_gatinha) / [Banco de Séries](https://bancodeseries.com.br/index.php?action=userPage&uid=1000023028)
