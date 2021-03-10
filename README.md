@@ -16,4 +16,4 @@ How to reach me:
 
 <br>
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliafonseca&layout=compact&bg_color=0D1117&text_color=ffffff)]
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliafonseca&layout=compact&bg_color=0D1117&text_color=ffffff)
