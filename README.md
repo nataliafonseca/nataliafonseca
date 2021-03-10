@@ -1,7 +1,7 @@
 # Hello there
 
-✒ I'm Natália Fonseca, a Computer Science student at [@Tiradentes University](https://www.unit.br/en/undergraduate)  
-⚒ I’m currently work at [@ALESE](https://al.se.leg.br/)  
+✒ I'm Natália, a Computer Science student at [@Tiradentes University](https://www.unit.br/en/undergraduate)  
+⚒ I currently work at [@ALESE](https://al.se.leg.br/)  
 💻 I’m currently learning Python, JavaScript, NodeJS, ReactJS, Java and some more!  
 
 <br>
