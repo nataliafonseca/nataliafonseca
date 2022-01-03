@@ -2,7 +2,7 @@
 
 ✒ I'm Natália, a Computer Science student at [@Tiradentes University](https://www.unit.br/en/undergraduate)  
 ⚒ I currently work at [@ALESE](https://al.se.leg.br/)  
-💻 I’m currently learning Python, JavaScript, NodeJS, ReactJS, Java and some more!  
+💻 I’m currently learning Python, JavaScript, NodeJS, ReactJS, Java and more!  
 
 <br>
 
@@ -14,6 +14,5 @@ How to reach me:
 
 <br>
 
-![Metrics](https://metrics.lecoq.io/nataliafonseca?template=classic&config.timezone=America%2FMaceio)
+![Metrics](https://metrics.lecoq.io/nataliafonseca?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FMaceio)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliafonseca&layout=compact&bg_color=0D1117&text_color=ffffff)
