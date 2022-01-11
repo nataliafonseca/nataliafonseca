@@ -1,4 +1,4 @@
-# Hello there
+# Hi 🙋‍♀️
 
 ✒ I'm Natália, a Computer Science student at [@Tiradentes University](https://www.unit.br/en/undergraduate)  
 ⚒ I currently work at [@ALESE](https://al.se.leg.br/)  
