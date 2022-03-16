@@ -2,7 +2,7 @@
 
 ✒ I'm Natália, a Computer Science student at [@Tiradentes University](https://www.unit.br/en/undergraduate)  
 ⚒ I currently work at [@ALESE](https://al.se.leg.br/)  
-💻 I’m currently learning JavaScript, NodeJS, ReactJS, Python, Java and more!  
+💻 I’m currently learning JavaScript, NodeJS, ReactJS, VueJS, Python, Java and more!  
 
 How to reach me:
 
