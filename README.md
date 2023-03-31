@@ -1,4 +1,4 @@
-# Hey there 🙋‍♀️
+# Hi 🙋‍♀️
 
 :tipping_hand_person: I'm Natália, a Software Developer  
 ⚒ I currently work as a Web and Mobile Developer at [@Iteris](https://www.iteris.com.br)  
