@@ -2,7 +2,7 @@
 
 :tipping_hand_person: I'm Natália, a Software Developer  
 ⚒ I currently work as a Web and Mobile Developer at [@Iteris](https://www.iteris.com.br)  
-✒ I'm finishing my Computer Science bachelor's degree at [@Tiradentes University](https://www.unit.br/en/undergraduate)  
+✒ I'm completing my Computer Science bachelor's degree at [@Tiradentes University](https://www.unit.br/en/undergraduate)  
 💻 I'm currently learning JavaScript, NodeJS, ReactJS, VueJS, React Native, Python and more!  
 
 How to reach me:
